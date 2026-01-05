@@ -1,1 +1,0 @@
-from .architecture import GPTModel
